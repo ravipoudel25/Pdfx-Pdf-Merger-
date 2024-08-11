@@ -1,0 +1,11 @@
+.outer-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(219, 219, 219);
+  text-align: center;
+}
+
+.input-container {
+  padding: 3rem 0;
+  text-align: center;
+}
